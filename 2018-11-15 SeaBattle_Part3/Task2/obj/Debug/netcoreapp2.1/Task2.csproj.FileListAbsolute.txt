@@ -1,0 +1,11 @@
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\bin\Debug\netcoreapp2.1\Task2.deps.json
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\bin\Debug\netcoreapp2.1\Task2.runtimeconfig.json
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\bin\Debug\netcoreapp2.1\Task2.runtimeconfig.dev.json
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\bin\Debug\netcoreapp2.1\Task2.dll
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\bin\Debug\netcoreapp2.1\Task2.pdb
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\obj\Debug\netcoreapp2.1\Task2.csprojAssemblyReference.cache
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\obj\Debug\netcoreapp2.1\Task2.csproj.CoreCompileInputs.cache
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\obj\Debug\netcoreapp2.1\Task2.AssemblyInfoInputs.cache
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\obj\Debug\netcoreapp2.1\Task2.AssemblyInfo.cs
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\obj\Debug\netcoreapp2.1\Task2.dll
+D:\1.C#\A-Level\2018-11-08 SeaBattle_Part1\Task2\obj\Debug\netcoreapp2.1\Task2.pdb
